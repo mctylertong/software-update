@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "softwareupdate8cdafec6": {}
+      },
+      "api": {
+        "softwareupdate": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
